@@ -30,7 +30,7 @@ class employee{
 };
     int main(){
     employee e;
-    e.setname();
+    e.setname("nithin");
     cout<<e.getname()<<endl;
     cin>>Name;
     e.setage(18);

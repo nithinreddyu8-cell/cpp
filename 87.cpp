@@ -19,4 +19,4 @@ int main() {
     cout << "No pair found";
 
     return 0;
-}
+}N
